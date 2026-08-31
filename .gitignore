@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+
+# Salidas de build y QA
+*.pptx
+qa-render/
+
+# Los logos e imagenes que consigas van aca y NO se commitean.
+# Un logo de terceros en un repositorio publico es un problema de marcas
+# que no hace falta tener: se publica el codigo que los procesa, no el archivo.
+scripts/assets/*
+!scripts/assets/LEEME.md
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "name": "consultora-ia",
+  "owner": {
+    "name": "Bautista Meyoyan"
+  },
+  "plugins": [
+    {
+      "name": "consultora-ia",
+      "source": "./",
+      "description": "Cuatro agentes que se reparten el trabajo de una consultora: encuadre, verificacion numerica, investigacion con frameworks y produccion del deck."
+    }
+  ]
+}

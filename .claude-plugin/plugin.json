@@ -1,0 +1,9 @@
+{
+  "name": "consultora-ia",
+  "description": "Una consultora de estrategia hecha de cuatro agentes. Convierte una consigna academica o un encargo de negocio en un deck ejecutivo con cifras verificadas e identidad visual derivada del sujeto.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bautista Meyoyan"
+  },
+  "keywords": ["presentaciones", "consultoria", "investigacion", "pptx", "academico", "estrategia"]
+}

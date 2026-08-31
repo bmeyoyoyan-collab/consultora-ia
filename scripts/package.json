@@ -1,0 +1,14 @@
+{
+  "name": "consultora-ia-scripts",
+  "version": "1.0.0",
+  "description": "Motor de generacion y QA de decks ejecutivos",
+  "private": true,
+  "scripts": {
+    "build": "node build-deck.js",
+    "neon": "node neon-logo.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0",
+    "sharp": "^0.33.5"
+  }
+}
