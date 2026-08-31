@@ -54,20 +54,6 @@ Quien dirige es responsable de:
   planteado. Detectarlo exige conocer el negocio, no revisar el procedimiento.
 - **La aprobación final.** Nada se entrega sin pasar por ahí.
 
-### Un ejemplo del caso documentado
-
-El diagrama de core competence marcaba tres conexiones de la arquitectura de negocio como
-inexistentes. La revisión de dirección determinó que la empresa **sí** tenía esas capacidades
-conectadas, y que el vacío real era otro: no faltaba una conexión, faltaba un nodo —una
-economía persistente sobre la cual esas capacidades pudieran apoyarse—.
-
-Esa corrección cambió el hallazgo central de la slide y, con él, la recomendación del trabajo.
-No salió de ningún agente: salió de leer el diagrama y no creerle.
-
-De ahí sale la regla que hoy vive en la skill —*antes de dibujar algo como roto, pasale el test
-del nivel y el del contrafáctico*— y su corolario, que muchas veces lo que falta no es una
-conexión sino un nodo. El método aprendió de la corrección humana, no al revés.
-
 ---
 
 ## Instalación
