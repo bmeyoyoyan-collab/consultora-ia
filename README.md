@@ -7,17 +7,20 @@ con cifras verificadas, análisis con frameworks e identidad visual derivada del
 
 ---
 
-## De dónde salió esto
+## Origen
 
-La materia pedía hacer el trabajo en **grupos de cinco**. Yo lo hice solo, con agentes de IA, y
-lo hablé con el profesor antes: la materia se llama Procesos de Innovación y Nuevos Negocios,
-y me pareció que la forma más honesta de tomármela en serio era innovar en el cómo, no sólo
-escribir sobre innovación. Le gustó la idea, con una condición: que todo fuera **open source**.
+Los trabajos prácticos de la materia **Procesos de Innovación y Nuevos Negocios** están
+planteados para grupos de cinco personas. Solicité a la cátedra autorización para resolverlos
+de manera individual, delegando la ejecución en un equipo de agentes de IA con roles
+diferenciados: tratándose de una materia sobre procesos de innovación, aplicar uno al propio
+método de trabajo resultaba una decisión coherente con su objeto de estudio.
 
-Este repositorio es esa condición cumplida. Es el método completo, funcionando, para que
-cualquiera lo use, lo critique o lo mejore.
+La autorización se concedió con una condición: que el método resultante se publicara en
+abierto.
 
-El grupo terminó siendo de cinco igual: cuatro agentes y yo.
+Este repositorio la cumple. Contiene el método completo y en funcionamiento —los cuatro
+agentes, las skills, las plantillas y el motor que compila el entregable— documentado para que
+pueda reutilizarse, auditarse o mejorarse.
 
 ---
 
@@ -33,30 +36,6 @@ El grupo terminó siendo de cinco igual: cuatro agentes y yo.
 La separación no es decoración. Cada uno es dueño de un artefacto distinto y ninguno pisa al
 otro: eso es lo que permite que el trabajo escale sin contradecirse. El quinto —quien pide el
 trabajo— decide, corta y aprueba. Los agentes no deciden alcance.
-
----
-
-## Las tres cosas que hacen la diferencia
-
-Todo lo demás del repo es detalle. Estas tres son las que cambian el resultado:
-
-**1 · Una sola fuente de verdad numérica, fijada antes de investigar.**
-Si cada analista busca las cifras por su cuenta, cada uno encuentra una versión distinta —uno
-toma ingresos GAAP, otro bookings, otro el año calendario en vez del fiscal— y el deck termina
-diciendo tres números para la misma cosa. El data pack se construye primero y los demás lo
-citan sin re-investigarlo.
-
-**2 · Lotes de dos agentes, nunca ocho.**
-Esta se aprendió a la fuerza: ocho agentes de investigación lanzados en paralelo agotaron el
-límite de sesión en los primeros minutos y murieron todos sin escribir un solo archivo. Dos,
-corriendo completos, entregaron 37.000 palabras. El paralelismo no abarata el trabajo, sólo
-concentra el gasto.
-
-**3 · Nunca entregar un deck que no viste renderizado.**
-El código compila perfecto y la slide está rota igual: una fila de tabla aplastada, un título
-que envuelve y pisa la bajada, texto que desborda su caja. Ninguno de esos defectos se ve
-leyendo el código. En el caso de referencia, las dos auditorías finales encontraron tres
-afirmaciones falsas ya maquetadas y tres defectos de layout.
 
 ---
 
