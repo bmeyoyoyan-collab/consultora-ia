@@ -11,9 +11,10 @@ con cifras verificadas, análisis con frameworks e identidad visual derivada del
 
 Los trabajos prácticos de la materia **Procesos de Innovación y Nuevos Negocios** están
 planteados para grupos de cinco personas. Solicité a la cátedra autorización para resolverlos
-de manera individual, delegando la ejecución en un equipo de agentes de IA con roles
-diferenciados: tratándose de una materia sobre procesos de innovación, aplicar uno al propio
-método de trabajo resultaba una decisión coherente con su objeto de estudio.
+de manera individual, asumiendo la dirección del trabajo y delegando su ejecución en un equipo
+de agentes de IA con roles diferenciados: tratándose de una materia sobre procesos de
+innovación, aplicar uno al propio método de trabajo resultaba una decisión coherente con su
+objeto de estudio.
 
 La autorización se concedió con una condición: que el método resultante se publicara en
 abierto.
@@ -34,8 +35,38 @@ pueda reutilizarse, auditarse o mejorarse.
 | **Salva** | La producción | El `.pptx` y su QA visual |
 
 La separación no es decoración. Cada uno es dueño de un artefacto distinto y ninguno pisa al
-otro: eso es lo que permite que el trabajo escale sin contradecirse. El quinto —quien pide el
-trabajo— decide, corta y aprueba. Los agentes no deciden alcance.
+otro: eso es lo que permite que el trabajo escale sin contradecirse.
+
+---
+
+## La dirección
+
+Los cuatro agentes ejecutan. **No deciden.** La dirección del trabajo es humana, y es donde se
+define la calidad del resultado: un equipo de agentes bien coordinado produce material
+correcto y sin criterio, que es exactamente lo que una cátedra o un directorio penalizan.
+
+Quien dirige es responsable de:
+
+- **El sujeto y la tesis.** Qué empresa se analiza y a qué conclusión debe llegar el argumento.
+  Ningún agente elige eso.
+- **El encuadre.** Qué entra en el alcance, qué queda afuera y cuánto espacio recibe cada cosa.
+- **La corrección del análisis.** Un agente puede entregar un hallazgo verificado y aun así mal
+  planteado. Detectarlo exige conocer el negocio, no revisar el procedimiento.
+- **La aprobación final.** Nada se entrega sin pasar por ahí.
+
+### Un ejemplo del caso documentado
+
+El diagrama de core competence marcaba tres conexiones de la arquitectura de negocio como
+inexistentes. La revisión de dirección determinó que la empresa **sí** tenía esas capacidades
+conectadas, y que el vacío real era otro: no faltaba una conexión, faltaba un nodo —una
+economía persistente sobre la cual esas capacidades pudieran apoyarse—.
+
+Esa corrección cambió el hallazgo central de la slide y, con él, la recomendación del trabajo.
+No salió de ningún agente: salió de leer el diagrama y no creerle.
+
+De ahí sale la regla que hoy vive en la skill —*antes de dibujar algo como roto, pasale el test
+del nivel y el del contrafáctico*— y su corolario, que muchas veces lo que falta no es una
+conexión sino un nodo. El método aprendió de la corrección humana, no al revés.
 
 ---
 

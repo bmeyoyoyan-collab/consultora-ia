@@ -7,7 +7,7 @@
     {
       "name": "consultora-ia",
       "source": "./",
-      "description": "Cuatro agentes que se reparten el trabajo de una consultora: encuadre, verificacion numerica, investigacion con frameworks y produccion del deck."
+      "description": "Cuatro agentes que se reparten la ejecucion del trabajo de una consultora -- encuadre, verificacion numerica, investigacion con frameworks y produccion del deck -- bajo direccion humana."
     }
   ]
 }
